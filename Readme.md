@@ -16,6 +16,7 @@ Place the vqmod_opencart_shipped_tracking.xml file in /opencart/vqmod/xml and yo
 
 ## Dependencies
 
-Your will need Opencart VQMOD to use this mod. If you need to install VQMOD lease refer to [VQMOD homepage](https://code.google.com/p/vqmod/) for instructions on installation.
+Your will need Opencart VQMOD to use this mod. Please refer to [VQMOD homepage](https://code.google.com/p/vqmod/) for instructions on installation.
 
-This mod is only in english, although it is very easy to adapt to your language and needs, just edit the email template at the bottom of the .xml file. Please drop me an email if you need assistance with this and I'll see if I can help you..
+This mod is only in english, although it is very easy to adapt to your language and needs, just edit the email template at the bottom of the .xml file.
+Please drop me an email to mail(@)torcu.com if you need assistance with this and I'll see if I can help you..
